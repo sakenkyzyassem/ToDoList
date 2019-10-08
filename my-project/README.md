@@ -1,6 +1,13 @@
-# newpro
+# My TODO list website
 
-> A Vue.js project
+> My first Vue.js project
+
+### What can you actually do with it?
+* Add a post with a todo title
+* Add a description to it
+* Done/Undone your TODO
+* Edit your TODO post
+* Delete your TODO post
 
 ## Build Setup
 
